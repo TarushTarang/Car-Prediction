@@ -58,7 +58,6 @@ pyparsing==3.1.4
 pyrsistent==0.19.3
 python-dateutil==2.9.0.post0
 pytz==2024.1
-pywin32==306
 pywinpty==2.0.10
 pyzmq==26.2.0
 scikit-learn==1.0.2
